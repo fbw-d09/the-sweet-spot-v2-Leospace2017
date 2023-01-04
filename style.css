@@ -1,0 +1,77 @@
+#h-image >img
+{
+    height: 100px;
+    width: 100%;
+    object-fit:cover;
+}
+
+.c-image> img
+{
+    
+    height: 200px;
+    width: 100%;
+    object-fit:cover;
+    
+}
+
+h2
+{
+    background-color: pink;
+}
+
+h3
+{
+    color: rgb(250, 165, 179);
+    background-color: grey;
+}
+.gelb
+{
+    background-color: yellow;
+}
+
+em
+{
+    background-color: rgb(255, 134, 154)
+}
+p
+{
+    text-align: justify;
+}
+
+.bild1 img
+{
+    width: 60px;
+    border-radius: 50%;
+    float: left;
+    margin-right: 10px;
+
+    border: 5px solid red;
+
+}
+.bild2 img
+{
+    width: 60px;
+    border-radius: 50%;
+    float: right;
+    margin-left:5px;
+    clip-path:circle();
+    border: 10px solid red;
+
+    
+}
+
+.bild3 img
+{
+    width: 60px;
+    border-radius: 50%;
+    float: left;
+    margin-right: 10px;
+    clip-path:circle();
+    border: 10px solid red;
+
+}
+
+ul
+{
+    background-color: aqua;
+}
