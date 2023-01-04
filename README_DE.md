@@ -21,3 +21,4 @@ an.
 > - Wir können wieder http://www.cupcakeipsum.com/ für den Blindtext im Abschnitt _Our Treats_ verwenden
 > - Klassen, IDs und CSS-Selektoren sollten verwendet werden, wo es angebracht ist
 > - Wie immer solltest du versuchen, deine Webseite so pixelgenau wie möglich zu gestalten.
+
